@@ -135,7 +135,7 @@
 </head>
 <body>
 
-<h2>Square CSS</h2>
+<h2>CSS</h2>
 <div class="rectangle"></div>
 <div class="square"></div>
 <div class="square2"></div>
@@ -152,7 +152,7 @@
 <div class="square13"></div>
 <div class="square14"></div>
 <div class="square15"></div>
-
+<h3>Conspiracy</h3>
 <p>My ‘inspiration’ painting is Frank Stella’s “<a href="https://www.caviar20.com/products/frank-stella-conspiracy-lithograph-1971">Conspiracy</a>” Lithograph. The viewer is seeing a series of concentric black squares on a beige background, with small lines of beige in between each square. The background is much more extensive than the squares, which are situated in the top right corner, leaving a vast amount of the painting being just pure beige.
 </p>
 <a href="https://gavin-casey.github.io/index.html/">Index</a>
