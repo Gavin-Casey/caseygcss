@@ -16,7 +16,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(0.585in,0.976in)
+  transform: translate(36.864px,356.982153846px)
 }
 .square2 {
   height: 185.107692308px;
@@ -24,7 +24,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(0.6788in,1.0698in);
+  transform: translate(42.7748430769px,362.886695385px);
 }
 .square3 {
   height: 181.169230769px;
@@ -32,7 +32,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(0.71in,1.101in);
+  transform: translate(44.7409230769px,364.859076923px);
 }
 .square4 {
   height: 157.538461539px;
@@ -40,7 +40,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(0.8975in,1.2885in);
+  transform: translate(56.5563076923px,376.674461539px);
 }
 .square5 {
   height: 153.6px;
@@ -48,7 +48,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(0.9288in,1.3198in);
+  transform: translate(58.5286892308px,378.640541539px);
 }
 .square6 {
   height: 129.969230769px;
@@ -56,7 +56,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(1.1163in,1.5073in);
+  transform: translate(70.3440738462px,390.455926154px);
 }
 .square7 {
   height: 122.092307692px;
@@ -64,7 +64,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(1.1788in,1.5698in);
+  transform: translate(74.2825353846px,394.394387692px);
 }
 .square8 {
   height: 102.4px;
@@ -72,7 +72,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(1.3351in,1.7261in);
+  transform: translate(84.13184px,404.237390769px);
 }
 .square9 {
   height: 94.5230769231px;
@@ -80,7 +80,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(1.3976in,1.7886in);
+  transform: translate(88.0703015385px,408.175852308px);
 }
 .square10 {
   height: 72.8615384616px;
@@ -88,7 +88,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(1.5695in,1.9605in);
+  transform: translate(98.9026461539px,419.005046154px);
 }
 .square11 {
   height: 66.9538461539px;
@@ -96,7 +96,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(1.6164in,2.0074in);
+  transform: translate(101.858067692px,421.957316923px);
 }
 .square12 {
   height: 47.2615384616px;
@@ -104,7 +104,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(1.7727in,2.1637in);
+  transform: translate(111.707372308px,431.80032px);
 }
 .square13 {
   height: 43.3230769231px;
@@ -112,7 +112,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(1.8039in,2.1949in);
+  transform: translate(113.673452308px,433.772701539px);
 }
 .square14 {
   height: 15.7538461539px;
@@ -120,7 +120,7 @@
   position: absolute;
   z-index: 0;
   background-color: #E4E5DE;
-  transform: translate(2.0227in,2.4137in);
+  transform: translate(127.461218462px,447.554166154px);
 }
 .square15 {
   height: 11.8153846154px;
@@ -128,7 +128,7 @@
   position: absolute;
   z-index: 0;
   background-color: black;
-  transform: translate(2.054in,2.445in);
+  transform: translate(129.4336px,449.520246154px);
 }
 
 </style>
