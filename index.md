@@ -130,7 +130,8 @@
   background-color: black;
   transform: translate(129.4336px,449.520246154px);
 }
-
+  h2 {text-align: center;}
+  p {text-align: center;}
 </style>
 </head>
 <body>
